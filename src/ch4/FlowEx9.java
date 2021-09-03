@@ -37,5 +37,7 @@ class FlowEx9 {
             default:
                 grade = 'F';
         }
+
+        System.out.println("당신의 학점은 " + grade + "입니다.");
     }
 }

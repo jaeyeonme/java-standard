@@ -11,7 +11,7 @@ import java.util.Scanner;
 class FlowEx3 {
     public static void main(String[] args) {
 
-        System.out.print("숫자를 하나 입력하세요.>");
+        System.out.print("숫자를 하나 입력하세요.> ");
 
         Scanner scanner = new Scanner(System.in);
         int input = scanner.nextInt(); // 화면을 통해 입력받은 숫자를 input에 저장
