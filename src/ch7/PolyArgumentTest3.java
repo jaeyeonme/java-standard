@@ -2,6 +2,12 @@ package ch7;
 
 import java.util.Vector;
 
+/**
+ * Date   : 2021. 09. 19
+ * Source : PolyArgumentTest3.java
+ * Author : 조재연 (Jaeyeon Cho)
+ * Email  : cjyeon1022@gamil.com
+ */
 class Product {
     int price;      // 제품의 가격
     int bonusPoint; // 제품구매 시 제공하는 보너스점수
