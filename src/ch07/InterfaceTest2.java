@@ -24,7 +24,7 @@ class B2 implements I {
 
 class C implements I {
     public void play() {
-        System.out.println("ply in C class");
+        System.out.println("play in C class");
     }
 }
 
